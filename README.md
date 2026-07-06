@@ -192,7 +192,7 @@ The test suite covers profiling, comparison rules, diagnosis ranking, impact tra
 - Make diagnosis thresholds configurable per pipeline.
 - Add richer lineage visualization once multiple pipelines exist.
 
-## Current Limitations
+## Current Limitations due to "Prototype Status"
 
 - One fully implemented sample pipeline.
 - Rule-based diagnosis only; no ML/LLM root-cause engine.
