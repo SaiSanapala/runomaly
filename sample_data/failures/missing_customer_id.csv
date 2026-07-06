@@ -1,0 +1,12 @@
+order_id,price,quantity,order_date,status,email
+1001,19.99,2,2026-07-01,paid,ava@example.com
+1002,8.50,1,2026-07-01,paid,ben@example.com
+1003,42.00,1,2026-07-01,shipped,cam@example.com
+1004,15.75,3,2026-07-01,pending,dia@example.com
+1005,6.25,4,2026-07-02,paid,eli@example.com
+1006,99.00,1,2026-07-02,completed,fay@example.com
+1007,12.40,2,2026-07-02,paid,gus@example.com
+1008,31.10,1,2026-07-02,cancelled,hal@example.com
+1009,55.00,2,2026-07-03,paid,ivy@example.com
+1010,7.99,5,2026-07-03,shipped,joy@example.com
+
