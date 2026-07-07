@@ -9,8 +9,10 @@ __pycache__/
 
 test_investigator.db
 dev_investigator.db
+portfolio_demo.db
 .test_snapshots/
 .dev_snapshots/
+.portfolio_snapshots/
 
 frontend/node_modules/
 frontend/dist/
