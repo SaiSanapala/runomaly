@@ -269,6 +269,7 @@ function App() {
           <span className="productMark">Runomaly</span>
           <h1>Runomaly</h1>
           <p>Likely causes, baseline comparisons, downstream impact, and replay for daily_order_analytics.</p>
+          <p className="creatorCredit">Created by Sai Sanapala</p>
         </div>
         {notice && <aside>{notice}</aside>}
       </header>

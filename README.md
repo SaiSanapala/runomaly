@@ -1,5 +1,7 @@
 # Runomaly
 
+Created by Sai Sanapala.
+
 Runomaly is a failure investigation tool for data pipelines. The first version focuses on one pipeline, `daily_order_analytics`, and implements the investigation workflow end to end: capture the run, snapshot the input, profile the data, compare a failed run to the last successful baseline, rank likely causes, show downstream impact, and replay the failure.
 
 I built it around a common data-engineering question:
